@@ -1,29 +1,84 @@
-🚀 Tech Career Simulation: Student Challenge
-This repository contains one of the technical challenges designed for my students at Senac Gravataí. The goal is to simulate a real-world hiring process, bridging the gap between classroom learning and the professional tech market.
+# 🚀 Tech Career Simulation: Student Challenge
 
-📌 The Project Concept
-As a teacher, I developed this simulation to prepare students for the dynamics of the IT industry. The activity is divided into three main phases:
+This repository contains one of the technical challenges designed for my students at **Senac Gravataí**.  
+The goal is to simulate a **real-world hiring process**, bridging the gap between classroom learning and the professional tech market.
 
-The Job Posting: Students are presented with three distinct job descriptions (Front-end, Full Stack, and Database).
+## 🌤️ Front-end Challenge: Weather Dashboard & Outfit Suggestions
 
-The Application: Students must select a position, prepare a resume, and write a professional email explaining why they are a good fit for the role.
+### 💡 Concept
+Create a website that consumes a weather forecast API (e.g., *OpenWeather*) and, based on the current temperature, suggests what the user should wear or do  
+(e.g., *"It's 15°C, bring a jacket!"*).
 
-The Technical Challenge: Upon "applying," students receive a technical requirement and a strict 2-day deadline to deliver a functional solution from scratch.
+### 📋 Requirements
+1. City search input.
+2. Central card displaying:
+   - Current temperature
+   - Humidity
+   - Weather icon
+3. JavaScript logic to display dynamic messages based on temperature.
+4. Fully responsive layout (**mobile-first**).
 
-🎯 Objective
-The core mission is to train a "Developer Mindset." Beyond just writing code (Hard Skills), students must practice:
+### 📦 Delivery
+- **Deadline:** 02/10  
+- **Submission:** Send the project repository link on GitHub.
 
-Soft Skills: Professional communication and email etiquette.
+---
 
-Time Management: Working under a tight deadline.
+## 📌 Project Concept
 
-Git Flow: Managing their progress through commits and repository organization.
+As a teacher, I developed this simulation to prepare students for the **dynamics of the IT industry**.  
+The activity is divided into **three main phases**:
 
-Problem Solving: Interpreting requirements and delivering a minimum viable product (MVP).
+### 1️⃣ The Job Posting
+Students are presented with three distinct job descriptions:
+- Front-end Developer
+- Full Stack Developer
+- Database Developer
 
-🛠️ Stack Selection
-This specific repository focuses on the [INSERT STACK NAME HERE, e.g., Front-end] challenge, utilizing:
+### 2️⃣ The Application
+Students must:
+- Select a position
+- Prepare a professional resume
+- Write a formal email explaining why they are a good fit for the role
 
-Languages/Tools: [e.g., HTML, CSS, JavaScript, MySQL]
+### 3️⃣ The Technical Challenge
+After “applying”, students receive:
+- A technical requirement
+- A **strict 2-day deadline**
+- The task of delivering a **functional solution from scratch**
 
-Methodology: Agile-based task management.
+---
+
+## 🎯 Objective
+
+The core mission is to develop a **Developer Mindset**.  
+Beyond writing code (**Hard Skills**), students are challenged to practice:
+
+- 🗣️ **Soft Skills** – Professional communication and email etiquette
+- ⏱️ **Time Management** – Working under tight deadlines
+- 🌱 **Git Flow** – Commit history, repository organization, and version control
+- 🧠 **Problem Solving** – Interpreting requirements and delivering a **Minimum Viable Product (MVP)**
+
+---
+
+## 🛠️ Stack Selection
+
+This specific repository focuses on the **JUNIOR FRONTEND DEVELOPER** challenge, utilizing:
+
+### Languages / Tools
+- HTML 5
+- CSS3
+- JavaScript (ES6)
+- Git/Github
+
+### Methodology
+- Agile-based task management
+
+---
+
+## 📚 Educational Purpose
+
+This project is **educational** and aims to expose students to:
+- Realistic hiring scenarios
+- Professional expectations
+- Practical decision-making under pressure
