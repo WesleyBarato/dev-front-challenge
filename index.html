@@ -15,9 +15,24 @@
   <body>
     <div class="container text-center">
       <div class="row">
-        <div class="col">Column</div>
-        <div class="col box"><h1>Weather</h1></div>
-        <div class="col">Column</div>
+        <div class="col"></div>
+        <div class="col box">
+          <h1>Weather</h1>
+          <div id="input">
+            <input
+              class="form-control"
+              type="text"
+              placeholder="Text your city"
+            />
+            <button class="btn btn-secondary">Search</button>
+          </div>
+          <div id="info">
+            <h3>Current Temperature</h3>
+            <h3>humidity</h3>
+            <h3>Weather icon</h3>
+          </div>
+        </div>
+        <div class="col"></div>
       </div>
     </div>
     <script
