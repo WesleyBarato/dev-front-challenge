@@ -20,16 +20,19 @@
           <h1>Weather</h1>
           <div id="input">
             <input
+              id="city"
               class="form-control"
               type="text"
               placeholder="Text your city"
             />
-            <button class="btn btn-secondary">Search</button>
+            <button onclick="loadWeather()" class="btn btn-secondary">
+              Search
+            </button>
           </div>
           <div id="info">
-            <h3>Current Temperature</h3>
-            <h3>humidity</h3>
-            <h3>Weather icon</h3>
+            <h3 id="currentTemperature">Current Temperature</h3>
+            <h3 id="humidity">humidity</h3>
+            <h3 id="weather">Weather icon</h3>
           </div>
         </div>
         <div class="col"></div>
